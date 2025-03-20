@@ -1,0 +1,208 @@
+@font-face {
+    font-family: "Semibold";
+    src: url(../Fonts/OpenSans-Semibold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Regular";
+    src: url(../Fonts/OpenSans-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+.Cuerpo {
+    background: linear-gradient(#fff, #e6e6e6, #808080);
+    top: 0px;
+    left: 0px;
+    width: 1600px;
+    height: 1200px;
+    position: absolute;
+}
+
+#Cuadroblanco {
+    top: 200px;
+    left: 100px;
+    width: 1400px;
+    height: 800px;
+    border: 1px solid #707070;
+    opacity: 1;
+    position: absolute;
+}
+
+#Tarjeta {
+    top: 322px;
+    left: 227px;
+    width: 884px;
+    height: 497px;
+    opacity: 1;
+    position: absolute;
+}
+
+#Logo1 {
+    top: 243px;
+    left: 143px;
+    width: 196px;
+    height: 44px;
+    opacity: 1;
+    position: absolute;
+}
+
+.Logo2 {
+    top: 876px;
+    left: 1595px;
+    width: 129px;
+    height: 27px;
+    opacity: 1;
+    display: flex;
+    margin: 23px 80px 70px 15px;
+}
+
+.Cuadrometrolinea {
+    top: 847px;
+    left: 1180px;
+    width: 160px;
+    height: 114px;
+    background-color: #D5FF43;
+    color: #D5FF43;
+    border-radius: 8px;
+    opacity: 1;
+    position: absolute;
+}
+
+.Comprar {
+    top: 890px;
+    left: 1205px;
+    width: 111px;
+    height: 36px;
+    background: transparent;
+    font-family: "Semibold";
+    color: black;
+    font-size: 26px;
+    margin: -50px 80px 70px 23px;
+}
+
+.COP {
+    top: 924px;
+    left: 157px;
+    width: 139px;
+    height: 37px;
+    opacity: 1;
+    position: absolute;
+}
+
+.Tarjetatexto {
+    top: 825px;
+    left: 158px;
+    width: 716px;
+    height: 55px;
+    opacity: 1;
+    position: absolute;
+    font-family: "Semibold";
+    font-size: 40px;
+}
+
+.ComprarTarjeta {
+    top: 210px;
+    left: 800px;
+    width: 230px;
+    height: 41px;
+    opacity: 1;
+    font-family: "Regular";
+    font-size: 30px;
+    position: absolute;
+
+}
+
+.Saldo {
+    text-decoration: none;
+    top: 242px;
+    left: 1072px;
+    width: 132px;
+    height: 41px;
+    opacity: 1;
+    font-family: "Regular";
+    font-size: 30px;
+    position: absolute;
+    color: black;
+}
+
+#Search {
+    top: 252px;
+    left: 1224px;
+    width: 27px;
+    height: 27px;
+    opacity: 1;
+    position: absolute;
+}
+
+#Linea {
+    top: 303px;
+    left: 841px;
+    width: 146px;
+    height: 0px;
+    border: 2px solid #212020;
+    opacity: 1;
+    position: absolute;
+}
+
+#Shopping {
+    top: 252px;
+    left: 1324px;
+    width: 33px;
+    height: 32px;
+    position: absolute;
+}
+
+.bloquesaldo {
+    top: 200px;
+    left: 1390px;
+    width: 110px;
+    height: 800px;
+    background: #212020 0% 0% no-repeat padding-box;
+    border-radius: 0px 8px 8px 0px;
+    opacity: 1;
+    position: absolute;
+}
+
+#uparrow {
+    top: 240px;
+    left: 1433px;
+    width: 24px;
+    height: 14px;
+    opacity: 1;
+    position: absolute;
+
+}
+
+#downarrow {
+    top: 946px;
+    left: 1433px;
+    width: 24px;
+    height: 14px;
+    opacity: 1;
+    position: absolute;
+}
+
+.Cant {
+    top: 349px;
+    left: 1403px;
+    width: 84px;
+    height: 27px;
+    opacity: 1;
+    font-family: "Regular";
+    font-size: 20px;
+    position: absolute;
+    color: #fff;
+}
+
+#Menu {
+    top: 507px;
+    left: 1435px;
+    width: 23px;
+    height: 187px;
+    opacity: 1;
+    position: absolute;
+
+}
